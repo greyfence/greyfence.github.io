@@ -1,0 +1,18 @@
+---
+layout: fullpage
+title: About
+---
+
+So much of modern life involves interacting with technology and the internet.  And so many of those interactions require that we store data on third party servers and often in some format that is only accessible through programs or websites provided by the companies and organizations that provide the service.  No doubt about it: these services are darn convenient.  We're trading control of our data for being able to access our documents and information from a variety of devices at any time.
+
+This trade off can turn around and bite us, however, on those occasions when the company decides to stop providing the service we're depending on, or changes their software or websites to a degree that makes it overly onerous to use, or goes out of business all together.   It's also very awkward to switch from one service to another.
+
+This blog is about enjoying the conveniences of a connected life but not being trapped in the eco-system of a particular vendor.  I'm a believer in formats that are open enough and common enough to be ubiquitous, like plain text and pngs and zip files.   I prefer storing data discrete files on a general cloud storage service like Dropbox or SkyDrive rather than using a service which requires use of specialized software to access the info like Evernote or Springpad. Oh, and it's also about the importance of backups.
+
+This blog is also for promoting my own software, notably [Texthaven](http://www.texthaven.com).  Texthaven is a plain text document editor for Windows which has grown out of my wanting to embrace the sweetspot between the conveniences and control that I've already spelt out above. 
+
+Even if you're not interested in trying my software, I hope you'll still find something to enjoy here.  ;)
+
+John Deweerd  
+jdew@greyfence.com
+
