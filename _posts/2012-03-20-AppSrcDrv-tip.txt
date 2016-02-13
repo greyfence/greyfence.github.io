@@ -1,0 +1,16 @@
+---
+layout: post
+title: Use %AppSrcDrv% to always find your note
+date: 2012-03-20
+categories:  Tips
+---
+
+Here's a tip to make using Knowsynotes on an external drive or a USB thumb drive easier.
+
+Knowsynotes supports the use of the %AppSrcDrv% variable in the Note Root and Perpetual Notes paths. This variable tells Knowsynotes to change the drive to match the drive the program was launched from. So, if Knowsynotes is launched from the D:\ and the path to a Note Root is:
+
+	 %AppSrcDrv%\Documents\notes
+
+Knowsynotes will open the note folder at D:\Documents\notes. This trick allows running when launching the program over a Local Network as well!
+
+And it works if you use the PortableApps.com Framework to manage your applications on a USB thumbdrive. Regardless of what drive letter the USB drive installs as, you'll always be able to access your notes.

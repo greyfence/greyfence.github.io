@@ -1,0 +1,16 @@
+---
+layout: post
+title: Keep it local 
+date: 2013-03-29
+categories:  Control
+---
+
+The [ pending shutdown ](http://googleblog.blogspot.com/2013/03/a-second-spring-of-cleaning.html)  of Google Reader is another opportunity to re-examine how much we want to depend on free web based services.  Being free, we can't complain when they change the look or the features or, ultimately, if the service disappears completely.  And, being web based, if they do go out of business or pivot to a new service we're stuck if that's the only access we had to that data. 
+
+There is no doubt that web based services are darned handy: no software to install and they're available from any computer.  But, since we're at their mercy, it's also a good idea to have a local copy of the data.  With Google Reader that would mean having an updated copy of your RSS feeds in  [ OPML ](http://en.wikipedia.org/wiki/OPML) format, ready to be imported into another online service or local program.
+
+You can export your Google Reader feeds using the [ Google Takeout ]( https://www.google.com/takeout)  service.  The OPML file is the 'subscriptions.xml' file in the downloaded zip file. 
+ 
+Another method of having ready access to your RSS feeds on any computer is to install an RSS reader on a USB drive.  One way of accomplishing this is to install PortableApps.com on your USB and installing one of the RSS reader Apps.  I have PortableApps and I'm using QuiteRSS and it's working fine.   I'm sure there are plenty of others.
+
+It's not as convenient as web based services but it is in your control.  Enjoy the web but have backups and a backup plan!

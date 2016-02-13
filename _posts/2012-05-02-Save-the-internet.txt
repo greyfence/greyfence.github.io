@@ -1,0 +1,16 @@
+---
+layout: post
+title: Save the internet
+date: 2012-05-02
+categories:  News
+---
+
+I'm not the only one who has experienced this: spend *months* on google looking for the answer to a particular puzzle; then finally (shazzah!!) find the webpage with **the** answer to life, the universe and everything. I'm positive I'll remember it but nonetheless I dutifully make a link to the page and think that life is good.
+
+Month's later, I've (of course) forgotten all the details of the answer to life and ... something something. But, I have made a link (and very likely even backed up my bookmarks). I click on the link and ... ack ... oof ... the site is gone. Sold to AOL who promptly shuttered the thing. Or they've done a site re-design and that page is now at some other link which I can't find. Or, they've decided that the answer to life and something something is too good to give away for free and now it's behind a pay-wall.
+
+This why I've gotten into the habit of capturing the pertinent details of all answers to life and something something to files on my personal computer. So even if the internet gets re-designed or re-indexed I'll always know what I know.
+
+I also make my local copy in plain text. (Surprise, surprise.) If there's a pertinent image, I'll copy that too as a jpg or png. Now I know it will be there for me when my memory \*really\* fails in the future even if I've abandoned Windows and switched to the latest implantable kBrain OS 9.0 which doesn't support the kBrain OS 8 apps. It will support some app which will read plain text. Then I can search it at will; I can back it up and know that I have it forever; I can copy it onto my phone and I can taunt people at pubs with the it.
+
+

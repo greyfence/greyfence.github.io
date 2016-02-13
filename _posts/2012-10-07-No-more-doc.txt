@@ -1,0 +1,16 @@
+---
+layout: post
+title: No more .doc for Google Apps users
+date: 2012-10-07
+categories:  News
+---
+
+Time waits for no proprietary format and now, perhaps, is the beginning of the end of the venerable .doc Word and .xls Excel formats. [ Google announced ](http://googleappsupdates.blogspot.ca/2012/09/scheduled-release-track-features-update_26.html)  that as of October 1st, 2012, users will will no longer be able to export their Google Apps documents into .doc or .xls formats. They can still export to new Office formats but will require a plugin to read these documents in older versions of Word and Excel.
+
+I'm surprised by this, actually. I've thought of the .doc format as the workhorse, the stalwart, the one format that was going to connect the Word users in the future with those from the past. It would have been logical to assume that eventually support would wane and at **some** point it would be abandoned, but not so soon.  True, it's only one companies application (and only exporting at the moment) but, it IS Google doing this, not Fred's Online Office Suite And Discount Pharmacy.
+
+The thin edge of the wedge, I say!
+
+Oh, I also say: long live plain text. Which, by the way, is a format you can still export your Google Documents to. ;)
+
+UPDATE: [ Google announced ](http://googleappsupdates.blogspot.ca/2012/10/docs-export-format-change-delayed-to.html) on October 10th that they're extending support for exporting .doc files until the end of January 2013.  Still, it IS coming!

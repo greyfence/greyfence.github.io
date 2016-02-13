@@ -1,0 +1,28 @@
+---
+layout: post
+title: It's World Backup Day!
+date: 2015-03-31
+disqus: y
+categories:  News
+---
+
+![2015-03-31-wbd_horizontal.png](imgs/2015-03-31-wbd_horizontal.png)
+
+I'm celebrating!  Are you?   Someone should backup the party.  I'd do it, but I'm kind of busy.  Maybe I'll get to it later.  Hopefully it won't crash and I'd lose it all.
+ 
+With so much of our lives being digital (documents, pictures, emails), everyone has experienced losing some bit of it from time to time.  
+
+ [ World Backup Day ](http://www.worldbackupday.com/en/) has been created as a way to remind people that it's important to preserve at least one copy of those precious files off the computer or camera or phone in case the worst happens.
+
+The website has the statistic that up to 30% of us have **never** made a backup.  That's just all kinds of sad waiting to happen.
+
+
+In observation of Word Backup Day, Tech Republic has a [ detailed post ](http://www.techrepublic.com/article/world-backup-day-best-practices-to-backup-your-data/)  about the importance of backing up and include the 3-2-1 rule.
+
+> This is why the introduction of the 3-2-1 rule for data backups makes logical sense for the real world, as it introduces flexibility. The 3-2-1 rule posits that there should be at least 3 copies of data that are stored on at least 2 different media, and at least 1 of the copies must be stored offsite
+
+As the World Backup Day folks say:  Don't be an April Fool.  Backup your data.
+
+
+
+ *This page is not offially supported or endorsed by World Backup Day.* 

@@ -1,0 +1,22 @@
+---
+layout: post
+title: Backup your lifestream
+date: 2013-12-03
+categories:  Control
+---
+
+Jill Duffy from pcmag.com [ talked ](http://www.pcmag.com/article2/0,2817,2427653,00.asp) to Rob May of Backupify about the importance of backing up online data.  She asked what content people most want to back up.
+
+> Email is the biggest because it's important to so much of our lives right now. Photos are probably next. Beyond that, it depends.
+
+> One of the things that's surprising is note-taking applications, apps like Evernote, Remember the Milk, those kinds of things. People are putting a lot of their lives into those kinds of applications.
+
+May says that even though the services do backups for failure recovery, people want to have copies for themselves, just in case.  He expects that in the future there will be easier methods for migrating information from one online application to another.  He suggests, however, that individuals probably won't want to pay for this service, but businesses will.
+
+
+
+
+
+
+
+

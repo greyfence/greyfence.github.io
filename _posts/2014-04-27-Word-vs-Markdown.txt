@@ -1,0 +1,15 @@
+---
+layout: post
+title: Word vs Markdown
+date: 2014-04-27
+disqus: y
+categories:  Markdown
+---
+
+Ben Balter has [ written a piece ](http://ben.balter.com/2014/03/31/word-versus-markdown-more-than-mere-semantics/) contrasting Word to plain text using Markdown.
+
+He makes the point that writing in a word processor is more about appearance where using Markdown for the web is more about content and intent. 
+
+My favourite part of the post was comparing the file sizes for the same content:
+
+![2014-04-27-Image-000.png](imgs/2014-04-27-Image-000.png)

@@ -1,0 +1,47 @@
+---
+layout: post
+title: Avast! bad reputation
+date: 2015-02-20
+disqus: y
+categories:  Fairness
+---
+
+Recently a new user downloaded the demo version of my [ Texthaven ](http://www.texthaven.com/download/) installer on a computer running Avast! anti-virus.  Immediately after the download was completed, Avast! popped up an error saying the application was infected with the DRep virus and had been deleted.  Pretty scary!  But, also a lie.  The Texthaven installer is not infected with a virus: the 'Rep' part of 'DRep' stands for 'Reputation'.  What this means is that because huge numbers of people haven't downloaded the file Avast hasn't decided if it's dangerous or not.  No real virus was detected in the file.
+
+![ 2015-02-20-Image-000.png ](imgs/2015-02-20-Image-000.png)
+
+I emailed Avast support and asked about this.  Part of the reply included this nugget:
+
+> DomainRep is a new feature of Avast, so let me explain a bit. It blocks EXE files downloads if these conditions are *all* met:
+
+> 1. The file is not prevalent enough, ie. not enough Avast users launched the file yet,
+
+> 2. The domain is not prevalent enough, ie. not enough Avast users downloaded (any) EXE files from the domain yet,
+
+> 3. The file is not signed or Avast does not trust the signature.
+
+> Once one of these conditions are not met anymore, Avast will stop flagging the download. In other words, just wait until more people try to download the file, or digitally sign your files.
+
+Us small developers don't have the kind of cash required to digitally sign our installers so that option is out.   
+
+Does anybody else see the problem with remaining parts this policy?  
+
+How exactly are we supposed to improve our reputation score if Avast! users are *not allowed* to launch the file?
+
+Or how can our websites become more prevalent if users are being scared off with a huge, scary virus notice when they try to download a file?
+
+I replied to their mail thusly:
+
+> Unfortunately, I don't think your company understands the catch-22 that Avast's current policy towards unknown installers creates for us small developers.  
+
+> On one hand you're saying that to improve the reputation of our installers more people need to download the file but on the other hand you *won't allow* anyone to download the file.  So, how exactly are we supposed to improve the reputation score of our installers?
+
+> Forcing us to digitally sign the installers is a non starter because it's prohibitively expensive for small developers.  
+
+> So, in effect you're only allowing the established players to gain market share because you're giving the impression that all other installers are infected with a virus.
+
+> A fairer approach would be to download the installer, scan it and then if it *actually does contain a virus*, warn the user or delete the file.
+
+>I do appreciate that you've unblocked my site and installer but requiring that developers go through support just to make it possible for users to download their files just isn't fair.  I haven't used Avast for a while (too many pop ups) and didn't even know it was blocked until someone emailed me and told me. 
+
+The good news is the newer versions of Avast! will no longer block downloads of the Texthaven installer.  But, it shouldn't have happened at all.

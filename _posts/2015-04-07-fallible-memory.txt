@@ -1,0 +1,21 @@
+---
+layout: post
+title: Fallibility of memory
+date: 2015-04-07
+disqus: y
+categories:  Features
+---
+
+More reasons to keep a journal and save notes on stuff you've learned:
+
+We've heard the stories of Brian Williams and his confusion regarding which helicopter he was flying in.  There are still differences of opinion on the likelihood of his lying versus mis-remembering, but it has highlighted how fallible meory can be. Christopher Chabris and Daniel Simons have provided a handy list in [ their story on Slate.com ](http://www.slate.com/articles/health_and_science/science/2015/02/false_memories_of_brian_williams_memory_experts_chabris_and_simons_tips.single.html)  on how to not be your local version of Mr. Williams, including 
+
+- Don't confuse memories with facts
+- Trust, but verify
+- Revisit original sources
+- Use your personal archives
+
+Not only are our existing memories suspect, a study carried out by [ Julia Shaw and Stephen Porter ](http://www.thestar.com/news/insight/2015/02/08/planting-false-memories-fairly-easy-psychologists-find.html)  at a Canadian university showed how terribly easy it is to implant false memories.  In fact, they stopped the study when they found that 70% of subjects were convinced the fake memories were real.  The authors believe that police interrogation techniques can cause suspects to believe they committed a crime and confess to crimes they didn't.
+
+
+

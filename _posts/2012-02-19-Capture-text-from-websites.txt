@@ -1,0 +1,24 @@
+---
+layout: post
+title: Capture text from websites
+date: 2012-02-19
+categories:  Tips
+---
+
+If you use Google Chrome as your web browser, I recommend installing the Auto Copy extension.
+
+With this extension installed you can simply highlight some text on a website and it will be copied to the Windows Clipboard.  Then, in Knowsynotes, type a title, hit enter and then paste the text.  Save.
+
+There is an option in Auto Copy to 'Include an informational comment'.  Add the following format:
+
+	[ $title ]($url)  $crlf
+
+Now it will include a link to the URL of the page you saved the text from as part of the text.
+
+Click on the link in View Mode and you'll return from whence the text came.  But, if the site is gone or the page has moved you'll still always have your local copy!  (In precious, future-proof text no less.)
+
+ [ Get the extension here ](https://chrome.google.com/webstore/detail/bijpdibkloghppkbmhcklkogpjaenfkg) 
+
+PS tip:  don't hit Ctrl-C after selecting the text in Chrome when using this extension because then it won't add the comment text.  Just highlight, create a new note in Knowsynotes and paste.
+
+Have fun!

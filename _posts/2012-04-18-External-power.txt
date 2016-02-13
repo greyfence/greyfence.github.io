@@ -1,0 +1,28 @@
+---
+layout: post
+title: External power
+date: 2012-04-18 
+categories:  Features
+---
+
+It's difficult (nay impossible) when creating a program to include every feature that every user would want. And who would want to wade through the menus of a program which includes every feature request from every person on the planet? (Yes, here I'm assuming that everyone will want at least one copy of Knowsynotes!)
+
+To keep things manageable but still be as useful as possible to as many of the billions of people on the planet as I can, I've added the External Program option in version 1.0.0.7. This allows you to right click on a file and send it to an external program to do some other magic that Knowsynotes can't do.
+
+![ External_Program_dialog_80.png ](http://www.greyfence.com/public/pic/blog/External_Program_dialog_80.png)
+
+There are options to include many parts of the file name, the date and time and you can also include a prompt for passwords and other text you don't want to have stored anywhere.
+
+The example above sends files to a zip program and the argument list includes the filname for constructing the zip name and the full path to the file.
+
+> $filepath$filename $request $fullfile
+
+The $request parameter tells Knowsynotes to pop up a little dialog like this
+
+![ request_text_80.png ](http://www.greyfence.com/public/pic/blog/request_text_80.png)
+
+asking for user input which is then sent off the external program.
+
+If the $storetxt variable is used instead of $request, the text will saved in memory and used every time the External Program is run until Knowsynotes is exited. The text is not permanently stored anywhere either way.
+
+Power to the people, er, notes.

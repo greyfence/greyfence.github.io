@@ -1,0 +1,17 @@
+---
+layout: post
+title: Plain text for long term storage
+date: 2014-04-27
+disqus: y
+categories:  Plain text
+---
+
+Eric Potter [ wrote on the Business 2 Community website ](http://www.business2community.com/tech-gadgets/lync-biggy-power-plain-text-0814768#!AxD0v)  about the power of plain text.
+
+> Because your data is not dependent on another application or library, it is less likely to become obsolete. In my career I have seen multiple instances of data being stored in database backups, but at some later date when the data is needed the backup format is incompatible with the latest version of the database. The older version of the database has to be found and installed in order to get the data. If the data is in plain text, I know that I'll be able to read it many years from now.
+
+Although, he's not completely convinced:
+
+> I'm certainly not saying that all data should be stored in plain text. In most cases, data belongs in a database. But for some data, particularly data that can have a long lifetime. Plain text is the best option.
+
+

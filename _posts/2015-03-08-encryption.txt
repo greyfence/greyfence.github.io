@@ -1,0 +1,14 @@
+---
+layout: post
+title: Encryption wrench
+date: 2015-03-08
+disqus: y
+categories:  News
+---
+
+Ha!  
+
+![ encryption comic ](http://imgs.xkcd.com/comics/security.png )
+
+Suggesting, perhaps, that simple password encrypted zips might be good enough.  ;)
+

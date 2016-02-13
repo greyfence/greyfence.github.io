@@ -1,0 +1,25 @@
+---
+layout: post
+title: Notes in "The Cloud"
+date: 2012-06-01 
+categories:  Tips
+---
+
+Yeah, this post is about [ Dropbox. ](http://www.dropbox.com) I'm not the first to mention it, but then if a bunch of people hadn't stumbled across it and talked about it before, it wouldn't really be worth mentioning... There is something to be said for being the first to discover something useful but there is even more value in a service that has been around for a while. Long enough to know it's going to be around for a while yet. Long enough for people to write handy clients for all different platforms, making it dreadfully simple to have copies of your files with you at all times. 2 GB worth anyway. That's a lot of text files!
+
+I have almost all my Knowsynotes note trees in my Dropbox folder. With simple text files I can fit all my saved notes (often grabbed from websites, graphics and all) , spreadsheets, all my historical notes plus all my current musings and still have plenty of room to grow in the future.
+
+For larger bunches of data (mostly Toronto historical research files), I'm trying out [ Microsoft's SkyDrive ](https://skydrive.live.com/) . I mostly access Knowsynotes from my various computers across my LAN so I have the Skydrive Windows client software running on my server. I'm using [ FolderSync ](https://play.google.com/store/apps/details?id=dk.tacit.android.foldersync.full&hl=en) to copy the data to my Android phone.
+
+There are limitations with SkyDrive compared to Dropbox, however. Two issues in particular affect me: There are no previous versions of non-Office files that have changed and uploaded. And, the programming API apparently doesn't allow 3rd party applications to automatically write files onto SkyDrive so a true background sync client from Android isn't possible. Still, since I was an early adopter and got 25GB of free storage, I still think it's worth giving it a try.
+
+I have tried SugarSync was well but had a problem with it repeatedly deleting some of my files. I was able to restore them from the Deleted Files folder but it spooked me and I've removed the software from my system.
+
+There is definitely no lack of [ choice ](http://en.wikipedia.org/wiki/Comparison_of_online_backup_services) of cloud services right now but in my opinion Dropbox is the current gold standard. Their own software is simple to configure and runs smoothly in the background. It does consume 50MB of RAM which is a concern, however. Third party apps, like [ DropSync ](https://play.google.com/store/apps/details?id=com.ttxapps.dropsync&hl=en) for Android, work seamlessly with the service as well.
+
+
+
+
+
+
+

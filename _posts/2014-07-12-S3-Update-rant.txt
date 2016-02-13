@@ -1,0 +1,19 @@
+---
+layout: post
+title: Android 4.4.3 update displeasure
+date: 2014-07-12
+disqus: y
+categories:  Rant
+---
+
+A rant after Android 4.4.3 was downloaded to my Samsung Galaxy S3 and discovering that apps can no longer write anywhere on the external sdcard.
+
+If I wanted to be treated like a child living in a house where all the electrical outlets are sealed with those little plastic fillers to keep myself from being electrocuted by sticking a knife in the slot, I would buy an iPhone.  (Why I would have a knife is another question.)  Android is supposed to be about personal choice and options and having control over your own device.  To be told from on high that I no longer have the choice to have applications update files on my own personal external sdcard on my own personal device is insulting.
+
+Even worse is having it foisted on me after the fact.  If I had bought the device with that limitation at least I would have known what I was getting before I plunked down my cash.   But to download an update that was near imposssible to avoid and have this little 'fix' buried deep inside with no option to disable it is infuriating.  
+
+I can understand that there are those who need to have their hands held and prefer that applications be kept in their own little fenced yards but I prefer it more messy. 
+
+I like that I can have one copy of an image or a document and edit them with multiple applications.  In general, document editing programs are great at document editing but are dismal at file management.  Why would I want to depend on their ability to correctly sync with Dropbox when it's not their expertise?  A special purpose synchronizing application is be much more likely to do the job reliably and properly because that's what they *do*.  It only makes sense to trust an app which does One Thing Well rather than a franken-app half doing many things.  
+
+Sure there are more opportunities for malware to do bad things on my card and sure it's possible for applications to write things where they aughtn't.  But I am adult and I understand the issues and I'm willing to take that risk.  At least give me the option -- with appropriate warning dialogs and checkboxes if you insist -- to make my computing life work like I want.  

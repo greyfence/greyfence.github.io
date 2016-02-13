@@ -1,0 +1,26 @@
+---
+layout: post
+title: How I used Knowsynotes to organize our trip
+date: 2012-07-15  
+categories:  Tips
+---
+
+Our trip this year was ambitious: visit 4 countries in two and a half weeks. This involved 8 flights, one bus trip, a week long car rental and a variety of hotels and B&B's. We had to organize cat sitters and offsite data storage; set up automatic garden watering and monitoring.
+
+All of the booking was done online and via email or through expedia.ca. Queries went out and responses came back as confirmation pages on websites, emails, pdf files or plain text. Lists were needed to organize the expenses and what to pack.
+
+I used Knowsynotes to keep track of it all.
+
+![ FranceTripPack_small.png ](http://www.greyfence.com/public/pic/blog/FranceTripPack_small.png)
+
+Prior to the trip there were CSV files for packing lists and expenses lists and text files with embedded images of sights to visit. Capturing text and images from Wikipedia or travel websites gave us plenty of ideas of where to visit when we landed. We had 2 days per city on average and so had to hit the ground running to see everything. ;)
+
+![ FranceTripEstonia_small.png ](http://www.greyfence.com/public/pic/blog/FranceTripEstonia_small.png)
+
+As planning progressed, confirmation web pages, PDF confirmations and screen grabs were saved along with exported email responses in a 'France Trip 2012' folder. This folder was in my Dropbox folder so it was all automatically saved online and onto my phone so there was always a copy at hand when we were scurrying around airports searching departure screens for our flights.
+
+As final confirmations came in, I saved them in the folder and renamed the files with the date that they'd be needed. Then, I could sort the list by name and easily see where we'd be when and if I had everything we needed.
+
+![ FranceTripList.png ](http://www.greyfence.com/public/pic/blog/FranceTripList.png)
+
+Other than Brussels Air losing our luggage on a flight from Tallinn, Estonia to Berlin, Germany and my leaving my hat on the bus everything went very well. We had to organize a few bits and pieces using the netbook and wifi while on the trip and it was very easy to save the new information into the same folder on the USB key and have it integrated with everything else even though we were thousands of miles away from home using a completely different computer. Brilliant, if I do say so myself. ;)

@@ -1,0 +1,16 @@
+---
+layout: post
+title: Vint Cerf warns of bit rot
+date: 2015-03-03
+disqus: y
+categories:  News
+---
+
+ [ Speaking to the BBC's Pallab Ghosh ](http://www.bbc.com/news/science-environment-31450389) , Vint Cerf spoke about the obsolscence of digital documents.  
+
+"No matter what the medium is in which digital bits are recorded, " he says, even if we can still read the medium, "how long will we make sense out of them?"  If you use a program to create a complex file, in 20 or 30 years "do you have the software that knows what the bits mean?"  He is proposing something called "Digital Vellum" where the entire environment needed to use that file is stored.  "Capture the digital environment in which those bits were created.  And make it possible a thousand years from now to recreate that digital environment so that the files that we created ... can be reproduced in the distant future."  "[It's achievable] as long as we standardize the descriptions" so that the standards are still known to be able to reconstruct this carefully constructed object.
+
+The nub of this is of course is the part about standardizing the descriptions.  How can we be sure that Vellum 4.0 will be able to read Vellum 1.0 files any more reliably than the current version of Word can read Word 1.0 files?   It seems to me that this would be just adding more layers to the [ Russian doll ](http://en.wikipedia.org/wiki/Matryoshka_doll) that has to be unpacked by future generations.
+
+For some types of documents this is unavoidable, but I would hazard that most of the documents we create (images, text, tables) could be saved in simpler formats without losing any of its value or usefulness.
+
