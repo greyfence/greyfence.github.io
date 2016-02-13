@@ -10,7 +10,7 @@ Last year I posted a rant about how a forced upgrade forced onto my Samsung Gala
 
 I chose to install [ cyanogenmod ](http://www.cyanogenmod.org/) .  There are other options but my research suggested that this was one of the safest, best supported and most stable aftermarket Android ROM available.  My S3 is pretty common so it's [  well supported ](http://wiki.cyanogenmod.org/w/Install_CM_for_d2lte) .  The instructions are fairly clear (after repeated readings) and mostly worked as written.  The only real wrinkle in the process was that I couldn't get adb working to send the new ROM to the phone.  Copying the zip to the microsd card and using the 'Install from zip' option in the Recovery app worked fine.  It found the zip and away it went.  I chose to install the Google Apps zip as well.
 
-![ 2015-02-20-cyanogenmodOnS3.png ](imgs/2015-02-22-Image-000.png)
+![ 2015-02-20-cyanogenmodOnS3.png ](/imgs/2015-02-22-Image-000.png)
 
 After a bit of initial configuration and logging into Google to sync my calender and contacts, then downloading some basic apps through the Play Store, I was up and running.   I've been using it for a week so far and other than an known issue with the built in camera app I haven't run into any problems.  I have been more than pleased with the configurability of the OS and am thrilled beyond words that my apps have unfettered write access to the sdcard again.  (I had missed being able to use Dropsync to keep all my notes in sync.)
 

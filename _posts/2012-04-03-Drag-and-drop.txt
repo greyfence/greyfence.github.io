@@ -14,7 +14,7 @@ If you drag an image from a web browser into the File List, Knowsynotes will cre
 
 If you drag an image into an open note, Knowsynotes will copy the image to an imgs folder beneath the open folder and then paste a link to the image in the note. So, you'll see something like this
 
-\[ img.png \]( imgs\myimg.png) 
+!\[ img.png \]( imgs\myimg.png) 
 
 Click on the View button to view it embedded in the note. This is good for when the image is part of a larger whole and isn't really useful on its own.
 

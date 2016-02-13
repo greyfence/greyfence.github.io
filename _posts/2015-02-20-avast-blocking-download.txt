@@ -8,7 +8,7 @@ categories:  Fairness
 
 Recently a new user downloaded the demo version of my [ Texthaven ](http://www.texthaven.com/download/) installer on a computer running Avast! anti-virus.  Immediately after the download was completed, Avast! popped up an error saying the application was infected with the DRep virus and had been deleted.  Pretty scary!  But, also a lie.  The Texthaven installer is not infected with a virus: the 'Rep' part of 'DRep' stands for 'Reputation'.  What this means is that because huge numbers of people haven't downloaded the file Avast hasn't decided if it's dangerous or not.  No real virus was detected in the file.
 
-![ 2015-02-20-Image-000.png ](imgs/2015-02-20-Image-000.png)
+![ 2015-02-20-Image-000.png ](/imgs/2015-02-20-Image-000.png)
 
 I emailed Avast support and asked about this.  Part of the reply included this nugget:
 

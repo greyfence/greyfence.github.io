@@ -10,7 +10,7 @@ Markdown was designed as a simple method of adding HTML markup to a document tha
 
 He had me interested until his suggestion of using a single hash (#) at the beginning of a line to indicate a header.  I find that headers underlined using equal signs (for main heading) and dashes (for subheadings) reads better in plain text than headers set off with hash symbols, even though it requires more keystrokes.
 
-![ 2014-06-22-Image-001.png ](imgs/2014-06-22-Image-001.png)
+![ 2014-06-22-Image-001.png ](/imgs/2014-06-22-Image-001.png)
 
 Since one of John Gruber's [ original criteria ](http://daringfireball.net/projects/markdown/)  was to have the plain text "as readable as possible", it only makes sense to use the version that has the greater impact.
 

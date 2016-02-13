@@ -11,7 +11,7 @@ A brand new, shiny version of Texthaven is available for download from the [ Tex
 CSS Style sheets
 --------------------
 
-![ 2015-03-31-Image_000.png ](imgs/2015-03-31-Image_000.png)
+![ 2015-03-31-Image_000.png ](/imgs/2015-03-31-Image_000.png)
 
 In this version, I've added the ability to change the CSS sheet while viewing a note in the Markdown view.  
 

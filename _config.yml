@@ -5,29 +5,28 @@ url: "http://example.com" # the base hostname & protocol for your site
 # THEME-SPECIFIC CONFIGURATION
 theme:
   # Meta
-  title: Type Theme
-  avatar: avatar.png
+  title: Basic Simple Info
+  avatar: fav.png
   gravatar: # Email MD5 hash
-  description: "A website with blog posts and pages" # used by search engines
+  description: "Use plain text and simple software to manage your life" # used by search engines
 
   # Header and footer text
   header_text: >
-     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+     <img src='/img/basicsimple.jpg'>
+     <p>Basic simple approach to software and information</p>
 
-     <p>Remove all header text in <code>_config.yml</code> to disable this feature.</p>
-  header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
 
   # Icons
   rss: false
-  email_address: # Full email address, e.g. "sam@example.com"
+  email_address: jdew@greyfence.com
   behance:
   bitbucket:
   dribbble:
   facebook:
   flickr:
-  github: "rohanchandra/type-theme"
+  github: #"greyfence"
   google_plus:
   instagram:
   linkedin:  # Full URL
@@ -37,14 +36,14 @@ theme:
   stack_exchange:  # Full URL
   steam:
   tumblr:
-  twitter: "twitter"
+  twitter: "johnd126"
   wordpress:
   youtube:
 
   # Scripts
   google_analytics: # Tracking ID, e.g. "UA-000000-01"
   disqus_shortname:
-  katex: true # Enable if using math markup
+  katex: false # Enable if using math markup
 
   # Localization strings
   str_follow_on: "Follow on"
@@ -65,8 +64,10 @@ theme:
 paginate: 5
 paginate_path: "blog/page:num"
 
-markdown_ext: "txt,md"
+markdown_ext: txt,md
+permalink: /:year/:month/:day/:title.html
 gems: [jekyll-paginate]
+#exclude: [_posts/imgs/] # keeps even the plugin from getting at it
 
 # BUILD SETTINGS
 markdown: kramdown

@@ -6,7 +6,7 @@ disqus: y
 categories:  News
 ---
 
-![2015-03-31-wbd_horizontal.png](imgs/2015-03-31-wbd_horizontal.png)
+![2015-03-31-wbd_horizontal.png](/imgs/2015-03-31-wbd_horizontal.png)
 
 I'm celebrating!  Are you?   Someone should backup the party.  I'd do it, but I'm kind of busy.  Maybe I'll get to it later.  Hopefully it won't crash and I'd lose it all.
  
