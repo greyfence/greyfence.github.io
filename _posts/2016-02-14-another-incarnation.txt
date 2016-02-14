@@ -1,0 +1,18 @@
+---
+layout: post
+title: Here we go again
+date: 2016-02-14
+disqus: y
+categories:  News
+---
+
+Another year, another blog ... sort of.  This is, I think, the third incarnation of this one.  I'm always on the lookout for easier ways of updating a blog where I can use plain text and not be locked in to some technology, or worse, a *particular version* of some technology.  I've been burned before: I have two older Wordpress blogs; they were created with different versions of Wordpress and are accessible but are static.  I suppose if I had kept up with the updates including the required manual tweaking to get everything working again, they could still be viable.  Provided I also kept up with the php updates, etc. But, inevitiably, there would come a time where I wouldn't be able to get an update or I just got tired of having to do all the work to keep it running and hack-free.  By abandoning them earlier I've just sped up the inevitable. They are just lost in time ... like tears in the rain.  (Sorry.)  
+
+A couple of years ago I switched to a static blog using Markdown and Jekyll.  Once it was set up, it worked OK.  Since it created a static website, it was less likely to get hacked and I could host it cheaply on Amazon AWS.  The downside was that every time I wanted to upload a post I had to copy files around and manually run Jekyll, log into my Amazon account and upload it.  Again, it worked ... but it was tedious and very quickly I tired of doing it.
+
+Now the blog is hosted on Github pages.  Because my content is simple Markdown files and Github uses Jekyll, I was able to move the whole thing over will relatively little effort.   OK, there was some effort involved in figuring out how to change the template.  And, OK, it did take a fair amount of slogging to get Jeykll to run on Linux Mint.  Well, and I had to learn some elementary commands in git.  But, other than that: painless.
+
+But, since the posts themselves exist as simple text files rather than binary chunks in some database, once I got it set up, it really was painless to move all the content over to the new home and have it adopt the new look.
+
+Now, the comes the really hard part: adding new content to it.  ;)
+
