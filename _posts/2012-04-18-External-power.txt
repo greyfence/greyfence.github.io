@@ -7,6 +7,8 @@ categories:  Features
 
 It's difficult (nay impossible) when creating a program to include every feature that every user would want. And who would want to wade through the menus of a program which includes every feature request from every person on the planet? (Yes, here I'm assuming that everyone will want at least one copy of Knowsynotes!)
 
+***
+
 To keep things manageable but still be as useful as possible to as many of the billions of people on the planet as I can, I've added the External Program option in version 1.0.0.7. This allows you to right click on a file and send it to an external program to do some other magic that Knowsynotes can't do.
 
 ![ External_Program_dialog_80.png ](http://www.greyfence.com/public/pic/blog/External_Program_dialog_80.png)

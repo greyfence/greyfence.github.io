@@ -11,6 +11,8 @@ Knowsynotes supports the use of the %AppSrcDrv% variable in the Note Root and Pe
 
 	 %AppSrcDrv%\Documents\notes
 
+***
+
 Knowsynotes will open the note folder at D:\Documents\notes. This trick allows running when launching the program over a Local Network as well!
 
 And it works if you use the PortableApps.com Framework to manage your applications on a USB thumbdrive. Regardless of what drive letter the USB drive installs as, you'll always be able to access your notes.

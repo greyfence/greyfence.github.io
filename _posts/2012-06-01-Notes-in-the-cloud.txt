@@ -7,6 +7,8 @@ categories:  Tips
 
 Yeah, this post is about [ Dropbox. ](http://www.dropbox.com) I'm not the first to mention it, but then if a bunch of people hadn't stumbled across it and talked about it before, it wouldn't really be worth mentioning... There is something to be said for being the first to discover something useful but there is even more value in a service that has been around for a while. Long enough to know it's going to be around for a while yet. Long enough for people to write handy clients for all different platforms, making it dreadfully simple to have copies of your files with you at all times. 2 GB worth anyway. That's a lot of text files!
 
+***
+
 I have almost all my Knowsynotes note trees in my Dropbox folder. With simple text files I can fit all my saved notes (often grabbed from websites, graphics and all) , spreadsheets, all my historical notes plus all my current musings and still have plenty of room to grow in the future.
 
 For larger bunches of data (mostly Toronto historical research files), I'm trying out [ Microsoft's SkyDrive ](https://skydrive.live.com/) . I mostly access Knowsynotes from my various computers across my LAN so I have the Skydrive Windows client software running on my server. I'm using [ FolderSync ](https://play.google.com/store/apps/details?id=dk.tacit.android.foldersync.full&hl=en) to copy the data to my Android phone.

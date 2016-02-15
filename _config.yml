@@ -67,11 +67,13 @@ paginate_path: "blog/page:num"
 markdown_ext: txt,md
 permalink: /:year/:month/:day/:title.html
 gems: [jekyll-paginate]
+excerpt_separator: "***"
+
 #exclude: [_posts/imgs/] # keeps even the plugin from getting at it
 
 # BUILD SETTINGS
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 sass:
   sass_dir: _sass
   style: :compressed

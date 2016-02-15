@@ -9,6 +9,8 @@ If you use Google Chrome as your web browser, I recommend installing the Auto Co
 
 With this extension installed you can simply highlight some text on a website and it will be copied to the Windows Clipboard.  Then, in Knowsynotes, type a title, hit enter and then paste the text.  Save.
 
+***
+
 There is an option in Auto Copy to 'Include an informational comment'.  Add the following format:
 
 	[ $title ]($url)  $crlf

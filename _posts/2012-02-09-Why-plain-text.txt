@@ -9,6 +9,8 @@ Some people have asked why saving documents as plain text files (.txt) is more f
 
 Plain text files been around virtually unchanged the dawn of computing and will likely remain around until the end of computing. Operating systems themselves and the programs and apps they run are written in plain text. The engines of the internet (html, php, perl, etc.) all made up of plain text files.
 
+***
+
 All major operating systems (Windows, Mac, iOS, Android, Linux, etc.) support the basic viewing and editing of plain text files, either natively or with free (or at least cheap), plentiful, text editors.
 
 Even if you never switch from one operating system to another there are big advantages to using plain text files. The Big Office Program format changes with alarming regularity. This years documents may not open in last years version. A older document may open but the formatting could be all messed up. Who knows who the dominant Office Program will be in 15 years and what formats they'll support. Remember Wordstar and Wordperfect? It's virtually guaranteed that text files will be readable 15 years from now.

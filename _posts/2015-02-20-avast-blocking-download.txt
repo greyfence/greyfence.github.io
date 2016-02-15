@@ -10,6 +10,8 @@ Recently a new user downloaded the demo version of my [ Texthaven ](http://www.t
 
 ![ 2015-02-20-Image-000.png ](/imgs/2015-02-20-Image-000.png)
 
+***
+
 I emailed Avast support and asked about this.  Part of the reply included this nugget:
 
 > DomainRep is a new feature of Avast, so let me explain a bit. It blocks EXE files downloads if these conditions are *all* met:

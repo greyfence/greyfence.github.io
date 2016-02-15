@@ -10,6 +10,8 @@ More reasons to keep a journal and save notes on stuff you've learned:
 
 We've heard the stories of Brian Williams and his confusion regarding which helicopter he was flying in.  There are still differences of opinion on the likelihood of his lying versus mis-remembering, but it has highlighted how fallible meory can be. Christopher Chabris and Daniel Simons have provided a handy list in [ their story on Slate.com ](http://www.slate.com/articles/health_and_science/science/2015/02/false_memories_of_brian_williams_memory_experts_chabris_and_simons_tips.single.html)  on how to not be your local version of Mr. Williams, including 
 
+***
+
 - Don't confuse memories with facts
 - Trust, but verify
 - Revisit original sources

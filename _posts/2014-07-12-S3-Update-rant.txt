@@ -10,6 +10,8 @@ A rant after Android 4.4.3 was downloaded to my Samsung Galaxy S3 and discoverin
 
 If I wanted to be treated like a child living in a house where all the electrical outlets are sealed with those little plastic fillers to keep myself from being electrocuted by sticking a knife in the slot, I would buy an iPhone.  (Why I would have a knife is another question.)  Android is supposed to be about personal choice and options and having control over your own device.  To be told from on high that I no longer have the choice to have applications update files on my own personal external sdcard on my own personal device is insulting.
 
+***
+
 Even worse is having it foisted on me after the fact.  If I had bought the device with that limitation at least I would have known what I was getting before I plunked down my cash.   But to download an update that was near imposssible to avoid and have this little 'fix' buried deep inside with no option to disable it is infuriating.  
 
 I can understand that there are those who need to have their hands held and prefer that applications be kept in their own little fenced yards but I prefer it more messy. 

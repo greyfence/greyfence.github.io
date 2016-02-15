@@ -11,6 +11,8 @@ All of the booking was done online and via email or through expedia.ca. Queries 
 
 I used Knowsynotes to keep track of it all.
 
+***
+
 ![ FranceTripPack_small.png ](http://www.greyfence.com/public/pic/blog/FranceTripPack_small.png)
 
 Prior to the trip there were CSV files for packing lists and expenses lists and text files with embedded images of sights to visit. Capturing text and images from Wikipedia or travel websites gave us plenty of ideas of where to visit when we landed. We had 2 days per city on average and so had to hit the ground running to see everything. ;)

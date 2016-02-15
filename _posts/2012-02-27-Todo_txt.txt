@@ -9,6 +9,8 @@ A handy feature of knowsynotes are the three Perpetual Notes buttons to the righ
 
 Gina Trapani (one of the founders of lifehacker.com) created a simple text file based todo list called todo.txt. Sync the text file to the cloud using Dropbox and then use applications such as the [ Todo.txt Touch Android ](https://play.google.com/store/apps/details?id=com.todotxt.todotxttouch&feature=search_result#?t=W251bGwsMSwxLDEsImNvbS50b2RvdHh0LnRvZG90eHR0b3VjaCJd)  or iOS apps to remotely access this list.
 
+***
+
 I have the first Perpetual Note button pointing to my todo.txt file. It's easy as pie to edit as text in Knowsynotes and through Dropbox it's available everywhere.
 
 Adding something to my grocery list as easy as adding a line to the todo.txt like:

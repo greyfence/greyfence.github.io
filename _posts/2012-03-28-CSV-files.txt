@@ -7,6 +7,8 @@ categories:  Features
 
 CSV files (for 'Comma Delimited Values') are spreadsheets where the information for each 'cell' is stored in the file as a string of text ending with a comma. Each 'row' of the spreadsheet is terminated with an <Enter> character. Easy-peasy. With this simple organization you can store information as plain text and still be able to display it in the familiar grid of cells that we're used to.
 
+***
+
 Knowsynote's built-in CSV viewer / editor also includes the ability to create links to other CSV files or notes. A history.csv file can serve as the entry point for organizing your class information which may have a schedule list with links to notes taken in each class, or URLs for research online material.
 
 CSV files are everywhere: you can download your banking information or cell phone usage data as CSV files or download the output of online todo list programs (which shall remain nameless ;)).

@@ -18,6 +18,8 @@ If you drag an image into an open note, Knowsynotes will copy the image to an im
 
 Click on the View button to view it embedded in the note. This is good for when the image is part of a larger whole and isn't really useful on its own.
 
+***
+
 and text!
 ----------
 

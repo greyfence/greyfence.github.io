@@ -19,6 +19,8 @@ I have a lot of notes with text captured from websites, along with notes detaili
 
 New CSS files can be created and added to the support folder beneath the Texthaven application folder and they'll be read the next time Texthaven is launched.
 
+***
+
 New Keyboard shortcuts
 ------------------------------
 

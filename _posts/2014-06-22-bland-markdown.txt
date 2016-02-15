@@ -8,6 +8,8 @@ categories:  Markdown
 
 Markdown was designed as a simple method of adding HTML markup to a document that also was readable as plain text.  Jeff McNiell feels that it's getting too complicated and [ suggests ](http://jeffmcneill.com/bland-markdown/) adopting bland markdown syntax as a kind of markdown standard.
 
+***
+
 He had me interested until his suggestion of using a single hash (#) at the beginning of a line to indicate a header.  I find that headers underlined using equal signs (for main heading) and dashes (for subheadings) reads better in plain text than headers set off with hash symbols, even though it requires more keystrokes.
 
 ![ 2014-06-22-Image-001.png ](/imgs/2014-06-22-Image_001.png)

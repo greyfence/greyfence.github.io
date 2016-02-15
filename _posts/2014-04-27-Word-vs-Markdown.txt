@@ -10,6 +10,8 @@ Ben Balter has [ written a piece ](http://ben.balter.com/2014/03/31/word-versus-
 
 He makes the point that writing in a word processor is more about appearance where using Markdown for the web is more about content and intent. 
 
+***
+
 My favourite part of the post was comparing the file sizes for the same content:
 
 ![2014-04-27-Image-000.png](/imgs/2014-04-27-Image-000.png)

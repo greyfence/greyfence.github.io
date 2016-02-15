@@ -1,0 +1,16 @@
+---
+layout: post
+title: ownCloud redux
+date: 2016-02-14
+disqus: y
+categories:  News
+---
+
+I was writing a long update of how I had set up an ownCloud server for hosting my own calendar and contact information.  But, then I stumbled onto [this blog post](
+http://flailingmonkey.com/moving-contacts-calendar-google/) from someone who had done essentially the same thing but explained the process much better.
+
+***
+
+A few differences between his set up and mine: I installed ownCloud on a VirtualBox VM running in tandem with other VMs on a refurbished Win7 system that I use as my home server.  I installed Ubuntu Server and then installed ownCloud.  I have Apache on that VM running on a unique port which I forwarded through my router.  Then I followed the same steps as the Rambling Madman  to get the information out of Google and sync'd with Thunderbird on the desktop and my Android devices.  
+
+More than a month so far and no issues.  (Just jinxed it there.)

@@ -11,6 +11,8 @@ Jill Duffy from pcmag.com [ talked ](http://www.pcmag.com/article2/0,2817,242765
 
 > One of the things that's surprising is note-taking applications, apps like Evernote, Remember the Milk, those kinds of things. People are putting a lot of their lives into those kinds of applications.
 
+***
+
 May says that even though the services do backups for failure recovery, people want to have copies for themselves, just in case.  He expects that in the future there will be easier methods for migrating information from one online application to another.  He suggests, however, that individuals probably won't want to pay for this service, but businesses will.
 
 
